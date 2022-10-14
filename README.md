@@ -9,8 +9,11 @@ On a linux distro
 # Install
 
 Download lite.zip from releases [here](https://github.com/rxi/lite/releases/)
+
 Extract the archive
+
 Open up a terminal
+
 cd into the directory with the newly extracted folder
 
 #### Run the following commands (root)
